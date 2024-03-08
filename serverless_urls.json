@@ -13,6 +13,38 @@
             "https://faas-nyc1-2ef2e6cc.doserverless.co/api/v1/web/fn-af66235d-5f26-40d2-8836-25a71fef3192/default/image-function-10",
             "https://faas-nyc1-2ef2e6cc.doserverless.co/api/v1/web/fn-af66235d-5f26-40d2-8836-25a71fef3192/default/image-function-11"
         ],
-      "noip_nojs" : []
+        "noip_nojs": [
+            "https://faas-nyc1-2ef2e6cc.doserverless.co/api/v1/web/fn-18d2cce9-106b-48b5-b8ba-afcc7ea146e6/serverless-autoip/noip",
+            "https://faas-nyc1-2ef2e6cc.doserverless.co/api/v1/web/fn-18d2cce9-106b-48b5-b8ba-afcc7ea146e6/serverless-autoip1/noip",
+            "https://faas-nyc1-2ef2e6cc.doserverless.co/api/v1/web/fn-18d2cce9-106b-48b5-b8ba-afcc7ea146e6/serverless-autoip2/noip",
+            "https://faas-nyc1-2ef2e6cc.doserverless.co/api/v1/web/fn-18d2cce9-106b-48b5-b8ba-afcc7ea146e6/serverless-autoip3/noip",
+            "https://faas-nyc1-2ef2e6cc.doserverless.co/api/v1/web/fn-18d2cce9-106b-48b5-b8ba-afcc7ea146e6/serverless-autoip4/noip",
+            "https://faas-nyc1-2ef2e6cc.doserverless.co/api/v1/web/fn-18d2cce9-106b-48b5-b8ba-afcc7ea146e6/serverless-autoip5/noip",
+            "https://faas-nyc1-2ef2e6cc.doserverless.co/api/v1/web/fn-18d2cce9-106b-48b5-b8ba-afcc7ea146e6/serverless-autoip6/noip",
+            "https://faas-nyc1-2ef2e6cc.doserverless.co/api/v1/web/fn-18d2cce9-106b-48b5-b8ba-afcc7ea146e6/serverless-autoip7/noip",
+            "https://faas-nyc1-2ef2e6cc.doserverless.co/api/v1/web/fn-18d2cce9-106b-48b5-b8ba-afcc7ea146e6/serverless-autoip8/noip",
+            "https://faas-nyc1-2ef2e6cc.doserverless.co/api/v1/web/fn-18d2cce9-106b-48b5-b8ba-afcc7ea146e6/serverless-autoip9/noip",
+            "https://faas-nyc1-2ef2e6cc.doserverless.co/api/v1/web/fn-18d2cce9-106b-48b5-b8ba-afcc7ea146e6/serverless-autoip10/noip",
+            "https://faas-nyc1-2ef2e6cc.doserverless.co/api/v1/web/fn-18d2cce9-106b-48b5-b8ba-afcc7ea146e6/serverless-autoip11/noip",
+            "https://faas-nyc1-2ef2e6cc.doserverless.co/api/v1/web/fn-18d2cce9-106b-48b5-b8ba-afcc7ea146e6/serverless-autoip12/noip",
+            "https://faas-nyc1-2ef2e6cc.doserverless.co/api/v1/web/fn-18d2cce9-106b-48b5-b8ba-afcc7ea146e6/serverless-autoip13/noip",
+            "https://faas-nyc1-2ef2e6cc.doserverless.co/api/v1/web/fn-18d2cce9-106b-48b5-b8ba-afcc7ea146e6/serverless-autoip14/noip",
+            "https://faas-nyc1-2ef2e6cc.doserverless.co/api/v1/web/fn-18d2cce9-106b-48b5-b8ba-afcc7ea146e6/serverless-autoip15/noip",
+            "https://faas-nyc1-2ef2e6cc.doserverless.co/api/v1/web/fn-18d2cce9-106b-48b5-b8ba-afcc7ea146e6/serverless-autoip16/noip",
+            "https://faas-nyc1-2ef2e6cc.doserverless.co/api/v1/web/fn-18d2cce9-106b-48b5-b8ba-afcc7ea146e6/serverless-autoip17/noip",
+            "https://faas-nyc1-2ef2e6cc.doserverless.co/api/v1/web/fn-18d2cce9-106b-48b5-b8ba-afcc7ea146e6/serverless-autoip18/noip",
+            "https://faas-nyc1-2ef2e6cc.doserverless.co/api/v1/web/fn-18d2cce9-106b-48b5-b8ba-afcc7ea146e6/serverless-autoip19/noip",
+            "https://faas-nyc1-2ef2e6cc.doserverless.co/api/v1/web/fn-18d2cce9-106b-48b5-b8ba-afcc7ea146e6/serverless-autoip20/noip",
+            "https://faas-nyc1-2ef2e6cc.doserverless.co/api/v1/web/fn-18d2cce9-106b-48b5-b8ba-afcc7ea146e6/serverless-autoip21/noip",
+            "https://faas-nyc1-2ef2e6cc.doserverless.co/api/v1/web/fn-18d2cce9-106b-48b5-b8ba-afcc7ea146e6/serverless-autoip22/noip",
+            "https://faas-nyc1-2ef2e6cc.doserverless.co/api/v1/web/fn-18d2cce9-106b-48b5-b8ba-afcc7ea146e6/serverless-autoip23/noip",
+            "https://faas-nyc1-2ef2e6cc.doserverless.co/api/v1/web/fn-18d2cce9-106b-48b5-b8ba-afcc7ea146e6/serverless-autoip24/noip",
+            "https://faas-nyc1-2ef2e6cc.doserverless.co/api/v1/web/fn-18d2cce9-106b-48b5-b8ba-afcc7ea146e6/serverless-autoip25/noip",
+            "https://faas-nyc1-2ef2e6cc.doserverless.co/api/v1/web/fn-18d2cce9-106b-48b5-b8ba-afcc7ea146e6/serverless-autoip26/noip",
+            "https://faas-nyc1-2ef2e6cc.doserverless.co/api/v1/web/fn-18d2cce9-106b-48b5-b8ba-afcc7ea146e6/serverless-autoip27/noip",
+            "https://faas-nyc1-2ef2e6cc.doserverless.co/api/v1/web/fn-18d2cce9-106b-48b5-b8ba-afcc7ea146e6/serverless-autoip28/noip",
+            "https://faas-nyc1-2ef2e6cc.doserverless.co/api/v1/web/fn-18d2cce9-106b-48b5-b8ba-afcc7ea146e6/serverless-autoip29/noip",
+            "https://faas-nyc1-2ef2e6cc.doserverless.co/api/v1/web/fn-18d2cce9-106b-48b5-b8ba-afcc7ea146e6/serverless-autoip30/noip"
+        ]
     }
 }
